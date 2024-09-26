@@ -1,0 +1,9 @@
+Restoring the Backup:
+To restore the configuration from a backup:
+
+Copy the files back to their original locations:
+
+bash
+Copy code
+cp -r ~/kde-backup/* ~/.config/
+Log out and log back in (or reboot) to apply the restored configurations.
