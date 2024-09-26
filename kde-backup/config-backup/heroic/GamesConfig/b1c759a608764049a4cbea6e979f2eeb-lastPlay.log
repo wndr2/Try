@@ -1,0 +1,138 @@
+Launching "Legends of Runeterra" (legendary)
+Native? No
+Installed in: /home/wonder/Games/Heroic/LegendsofRuneterra
+
+System Info:
+CPU: 4x Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+Memory: 8.26 GB (used: 3.23 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GM204 [GeForce GTX 970]
+    IDs: D=13c2 V=10de SD=undefined SV=undefined
+    Driver: undefined
+OS: Arch Linux 6.10.10-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.15.1 Emeth
+  Legendary: 0.20.35 Lowlife (Heroic)
+  gogdl: 1.1.1
+  comet: comet 0.1.2
+
+  Nile: 1.1.1 Will A. Zeppeli
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallDxvkNvapi": false,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableMsync": false,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"battlEyeRuntime": true,
+	"eacRuntime": true,
+	"language": "",
+	"beforeLaunchScriptPath": "",
+	"afterLaunchScriptPath": "",
+	"wineVersion": {
+		"bin": "/usr/bin/wine",
+		"name": "Wine Default - wine-9.16",
+		"type": "wine",
+		"wineserver": "/usr/bin/wineserver"
+	},
+	"winePrefix": "/home/wonder/Games/Heroic/Prefixes/default/Legends of Runeterra",
+	"wineCrossoverBottle": ""
+}
+
+Game launched at: Thu Sep 19 2024 16:18:13 GMT+0300 (Israel Daylight Time)
+
+Winetricks packages: 
+
+Launch Command: HEROIC_APP_NAME=b1c759a608764049a4cbea6e979f2eeb HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs STEAM_COMPAT_INSTALL_PATH=/home/wonder/Games/Heroic/LegendsofRuneterra LD_PRELOAD= WINEPREFIX="/home/wonder/Games/Heroic/Prefixes/default/Legends of Runeterra" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/wonder/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/wonder/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch b1c759a608764049a4cbea6e979f2eeb --wine /usr/bin/wine --language en
+
+Game Log:
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching b1c759a608764049a4cbea6e979f2eeb...
+esync: up and running.
+002c:fixme:winediag:loader_init wine-staging 9.11 is a testing version containing experimental patches.
+002c:fixme:winediag:loader_init Please mention your exact version when filing bug reports on winehq.org.
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (126).
+0094:err:hid:udev_bus_init UDEV monitor creation failed
+0024:err:winediag:gnutls_process_attach failed to load libgnutls, no support for encryption
+0024:err:winediag:process_attach failed to load libgnutls, no support for pfx import/export
+0118:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 05ACFF18
+0024:err:bcrypt:key_asymmetric_create no encryption support
+0024:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0024:fixme:nls:get_dummy_preferred_ui_language (0x8 0x409 0481E300 0481E33C 0481E304) returning a dummy value (current locale)
+0134:fixme:advapi:GetEffectiveRightsFromAclW 05C94194 0C82EFA8 0C82EFC0 - stub
+013c:err:winediag:gnutls_process_attach failed to load libgnutls, no support for encryption
+013c:err:winediag:process_attach failed to load libgnutls, no support for pfx import/export
+0148:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 05CCFF18
+013c:err:bcrypt:key_asymmetric_create no encryption support
+013c:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0188:fixme:file:NtLockFile I/O completion on lock not implemented yet
+01a0:err:winediag:gnutls_process_attach failed to load libgnutls, no support for encryption
+01a0:err:winediag:process_attach failed to load libgnutls, no support for pfx import/export
+01a4:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 05D1FF18
+01a0:err:bcrypt:key_asymmetric_create no encryption support
+01a0:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+01a0:fixme:file:NtLockFile I/O completion on lock not implemented yet
+01a0:fixme:nls:get_dummy_preferred_ui_language (0x8 0x409 04A6E2BC 04A6E2FC 04A6E2C0) returning a dummy value (current locale)
+013c:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 04A1FEB8
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0xf9c87181) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0xf9ca56b1) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0xf9d59ea1) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0xf9d7fdc1) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6b254331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6b21d4a1) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6b2c72d1) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6b454331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6cfac331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6c771331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6de40331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6e88e331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6ef1a331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6e51e331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6fb75331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6f08a331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6f26f331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6f710331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x6080e331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x60a45331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x60fcc331) stub
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0x60179331) stub
+0024:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 0481FEB8
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa012ab1) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa030fa1) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa0d5751) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa0cb6f1) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa0e8751) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa1518c1) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa11b571) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa1ce811) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x692ac331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6aa71331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6a540331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6bf8e331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6b21a331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6c81e331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6ce75331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6c78a331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6d96f331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6da10331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6df0e331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6d145331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6d2cc331) stub
+01a0:fixme:font:NtGdiRemoveFontMemResourceEx (0x6d479331) stub
+01a0:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 04A6FEB8
+============= End of log =============

@@ -1,0 +1,43 @@
+(16:51:51) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary
+(16:51:51) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl
+(16:51:51) INFO:    [Connection]:       Connectivity: check-online
+(16:51:51) INFO:    [Connection]:       Pinging external endpoints
+(16:51:51) INFO:    [Gog]:              Checking for existing gog manifests
+(16:51:51) WARNING: [Backend]:          Protocol already registered.
+(16:51:51) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/wonder/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+(16:51:51) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/wonder/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/wonder/.config/heroic/gog_store/auth.json --version
+(16:51:52) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/wonder/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/nile --version
+(16:51:52) INFO:    [Connection]:       Connectivity: online
+(16:51:52) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(16:51:52) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/wonder/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/wonder/.config/heroic/gog_store/auth.json auth
+(16:51:52) INFO:    [Backend]:          
+System Information:
+CPU: 4x Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+Memory: 8.26 GB (used: 1.88 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GM204 [GeForce GTX 970]
+    IDs: D=13c2 V=10de SD=3683 SV=1458
+    Driver: nvidia
+OS: Arch Linux 6.10.10-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.15.1 Emeth
+  Legendary: 0.20.35 Lowlife (Heroic)
+  gogdl: 1.1.1
+  comet: comet 0.1.2
+
+  Nile: 1.1.1 Will A. Zeppeli
+
+(16:51:52) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(16:51:52) INFO:    [Frontend]:         Refreshing undefined Library
+(16:51:52) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(16:51:52) INFO:    [Legendary]:        Refreshing library...
+(16:51:52) INFO:    [Legendary]:        Refreshing Epic Games...
+(16:51:52) INFO:    [Backend]:          Frontend Ready
+(16:51:52) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/wonder/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party
+(16:51:52) INFO:    [Backend]:          Checking for new Heroic Updates
+(16:51:52) INFO:    [Backend]:          Checking for current version changelog

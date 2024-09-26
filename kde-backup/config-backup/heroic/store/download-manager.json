@@ -1,0 +1,314 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "41869934302e4b8cafac2d3c0e7c293d",
+				"path": "/home/wonder/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "41869934302e4b8cafac2d3c0e7c293d",
+					"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape Product image-EN_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+					"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait Product Image-en_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+					"cloud_save_enabled": false,
+					"developer": "COGNOSPHERE PTE. LTD.",
+					"extra": {
+						"about": {
+							"description": "Genshin Impact",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/genshin-impact"
+					},
+					"dlcList": [
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2021-07-15T20:18:31.037Z",
+							"customAttributes": {
+								"SupportedPlatforms": {
+									"type": "STRING",
+									"value": "Windows"
+								}
+							},
+							"description": "DLC11 Audience",
+							"developer": "COGNOSPHERE PTE. LTD.",
+							"developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+							"endOfSupport": false,
+							"entitlementName": "468a3a89128640faa443c80628ac680b",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "468a3a89128640faa443c80628ac680b",
+							"installModes": [],
+							"itemType": "CONSUMABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2024-07-26T09:09:46.199Z",
+							"mainGameItem": {
+								"id": "7d690c122fde4c60bed85405f343ad10",
+								"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+								"unsearchable": false
+							},
+							"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "DLC11 Audience",
+							"unsearchable": true,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2024-04-18T18:18:35.537Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Genshin Impact MEGA Sale Bundle",
+							"developer": "COGNOSPHERE PTE. LTD.",
+							"developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+							"endOfSupport": false,
+							"entitlementName": "ef2cb524c64a425c9e7758cd5c9f185d",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "ef2cb524c64a425c9e7758cd5c9f185d",
+							"itemType": "DURABLE",
+							"lastModifiedDate": "2024-07-26T09:09:48.453Z",
+							"mainGameItem": {
+								"id": "7d690c122fde4c60bed85405f343ad10",
+								"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+								"unsearchable": false
+							},
+							"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Genshin Impact MEGA Sale Bundle",
+							"unsearchable": true
+						}
+					],
+					"folder_name": "GenshinImpact",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Genshin Impact",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/genshin-impact"
+				},
+				"size": "168.51 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1725003486271,
+			"endTime": 1725003639103,
+			"startTime": 1725003486279,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "b1c759a608764049a4cbea6e979f2eeb",
+				"path": "/home/wonder/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "b1c759a608764049a4cbea6e979f2eeb",
+					"art_cover": "https://cdn1.epicgames.com/item/4fb89e9f47fe48258314c366649c398e/EGS_LegendsofRuneterra_RiotGames_S1_2560x1440-5b9bb1dd0e9e185b199de341d79989bc",
+					"art_square": "https://cdn1.epicgames.com/item/4fb89e9f47fe48258314c366649c398e/EGS_LegendsofRuneterra_RiotGames_S2_1200x1600-dace25a2085eadf764e1594232e69fb8",
+					"cloud_save_enabled": false,
+					"developer": "Riot Games, Inc.",
+					"extra": {
+						"about": {
+							"description": "Legends of Runeterra",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/legends-of-runeterra"
+					},
+					"folder_name": "LegendsofRuneterra",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "4fb89e9f47fe48258314c366649c398e",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Legends of Runeterra",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/legends-of-runeterra"
+				},
+				"size": "62.73 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1725079886192,
+			"endTime": 1725080038540,
+			"startTime": 1725079886199,
+			"status": "done"
+		}
+	],
+	"queue": [
+		{
+			"params": {
+				"appName": "41869934302e4b8cafac2d3c0e7c293d",
+				"path": "/mnt/Atlas/My Games",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "41869934302e4b8cafac2d3c0e7c293d",
+					"art_cover": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape Product image-EN_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+					"art_square": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait Product Image-en_1200x1600-c12cdcc2cac330df2185aa58c508e820",
+					"cloud_save_enabled": false,
+					"developer": "COGNOSPHERE PTE. LTD.",
+					"extra": {
+						"about": {
+							"description": "Genshin Impact",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/genshin-impact"
+					},
+					"dlcList": [
+						{
+							"ageGatings": {},
+							"applicationId": "",
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2021-07-15T20:18:31.037Z",
+							"customAttributes": {
+								"SupportedPlatforms": {
+									"type": "STRING",
+									"value": "Windows"
+								}
+							},
+							"description": "DLC11 Audience",
+							"developer": "COGNOSPHERE PTE. LTD.",
+							"developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+							"endOfSupport": false,
+							"entitlementName": "468a3a89128640faa443c80628ac680b",
+							"entitlementType": "AUDIENCE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "468a3a89128640faa443c80628ac680b",
+							"installModes": [],
+							"itemType": "CONSUMABLE",
+							"keyImages": [],
+							"lastModifiedDate": "2024-07-26T09:09:46.199Z",
+							"mainGameItem": {
+								"id": "7d690c122fde4c60bed85405f343ad10",
+								"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+								"unsearchable": false
+							},
+							"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "DLC11 Audience",
+							"unsearchable": true,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2024-04-18T18:18:35.537Z",
+							"customAttributes": {
+								"CanRunOffline": {
+									"type": "STRING",
+									"value": "true"
+								}
+							},
+							"description": "Genshin Impact MEGA Sale Bundle",
+							"developer": "COGNOSPHERE PTE. LTD.",
+							"developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+							"endOfSupport": false,
+							"entitlementName": "ef2cb524c64a425c9e7758cd5c9f185d",
+							"entitlementType": "EXECUTABLE",
+							"eulaIds": [
+								"egstore"
+							],
+							"id": "ef2cb524c64a425c9e7758cd5c9f185d",
+							"itemType": "DURABLE",
+							"lastModifiedDate": "2024-07-26T09:09:48.453Z",
+							"mainGameItem": {
+								"id": "7d690c122fde4c60bed85405f343ad10",
+								"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+								"unsearchable": false
+							},
+							"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+							"releaseInfo": [],
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Genshin Impact MEGA Sale Bundle",
+							"unsearchable": true
+						}
+					],
+					"folder_name": "GenshinImpact",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "879b0d8776ab46a59a129983ba78f0ce",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Genshin Impact",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/genshin-impact"
+				},
+				"size": "168.51 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1726751961324,
+			"endTime": 0,
+			"startTime": 1726751961332
+		}
+	]
+}

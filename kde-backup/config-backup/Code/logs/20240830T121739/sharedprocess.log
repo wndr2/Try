@@ -1,0 +1,3 @@
+2024-08-30 12:17:42.063 [info] Started initializing default profile extensions in extensions installation folder. file:///home/wonder/.vscode/extensions
+2024-08-30 12:17:42.161 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/wonder/.vscode/extensions Unable to create file 'vscode-userdata:/home/wonder/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-08-30 12:17:42.162 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/wonder/.vscode/extensions

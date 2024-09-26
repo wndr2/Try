@@ -1,0 +1,99 @@
+{
+  "app_name": "Jaguar",
+  "app_title": "Subnautica",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Jaguar",
+      "asset_id": "Jaguar",
+      "build_version": "71288-27962937-Windows",
+      "catalog_item_id": "3257e06c28764231acd93049f3774ed6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "jaguar"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2018-11-29T23:28:46.382Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Subnautica"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "jaguar"
+      }
+    },
+    "description": "Subnautica",
+    "developer": "Unknown Worlds Entertainment",
+    "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+    "endOfSupport": false,
+    "entitlementName": "3257e06c28764231acd93049f3774ed6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3257e06c28764231acd93049f3774ed6",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1800,
+        "md5": "f5ebad930a2f6eb715579a056807033f",
+        "size": 1598169,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-06-20T22:29:33.806Z",
+        "url": "https://cdn1.epicgames.com/item/jaguar/SN_EpicPortrait_1200x1800-f5ebad930a2f6eb715579a056807033f",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "68271847bd0a1a7adac3992f9d2a996a",
+        "size": 919144,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-06-20T22:29:37.130Z",
+        "url": "https://cdn1.epicgames.com/item/jaguar/SN_EpicLandscape_2560x1440-68271847bd0a1a7adac3992f9d2a996a",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2023-06-20T22:29:42.650Z",
+    "namespace": "jaguar",
+    "releaseInfo": [
+      {
+        "appId": "Jaguar",
+        "compatibleApps": [],
+        "dateAdded": "2018-11-29T00:00:00.000Z",
+        "id": "587ab94f78b34affaf70a4afd479c0f6",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Subnautica",
+    "unsearchable": true
+  }
+}

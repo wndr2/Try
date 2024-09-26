@@ -1,0 +1,77 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/wonder/.config/heroic/logs/2024-09-24T17_15_27-heroic.log",
+		"lastLogFile": "/home/wonder/.config/heroic/logs/2024-09-24T13_51_51-heroic.log",
+		"legendaryLogFile": "/home/wonder/.config/heroic/logs/2024-09-24T17_15_27-legendary.log",
+		"gogdlLogFile": "/home/wonder/.config/heroic/logs/2024-09-24T17_15_27-gogdl.log",
+		"nileLogFile": "/home/wonder/.config/heroic/logs/2024-09-24T17_15_27-nile.log"
+	},
+	"userHome": "/home/wonder",
+	"language": "en",
+	"userInfo": {
+		"account_id": "aee4d78f3ea7431ba408caf444794ea7",
+		"displayName": "Ozay3444",
+		"user": "wonder"
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "b1c759a608764049a4cbea6e979f2eeb",
+				"title": "Legends of Runeterra"
+			},
+			{
+				"appName": "41869934302e4b8cafac2d3c0e7c293d",
+				"title": "Genshin Impact"
+			}
+		]
+	},
+	"window-props": {
+		"x": 272,
+		"y": 188,
+		"width": 1200,
+		"height": 690,
+		"maximized": false
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": false,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/run/media/wonder/1CDEB8DADEB8AE00/Games",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/wonder/.steam/steam",
+		"defaultWinePrefix": "/home/wonder/Games/Heroic/Prefixes/default",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/wonder/Games/Heroic/Prefixes/default",
+		"wineVersion": {
+			"bin": "",
+			"name": "Default Wine - Not Found",
+			"type": "wine"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"enableMsync": false,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false,
+		"beforeLaunchScriptPath": "",
+		"afterLaunchScriptPath": ""
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "b1c759a608764049a4cbea6e979f2eeb": {
+    "app_name": "b1c759a608764049a4cbea6e979f2eeb",
+    "base_urls": [
+      "https://fastly-download.epicgames.com/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/6a1591dd42204a6f9bf38b1039c4bd48/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/6a1591dd42204a6f9bf38b1039c4bd48/default",
+      "https://download.epicgames.com/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/6a1591dd42204a6f9bf38b1039c4bd48/default",
+      "https://cloudflare.epicgamescdn.com/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/6a1591dd42204a6f9bf38b1039c4bd48/default",
+      "https://download2.epicgames.com/Builds/Org/o-f78uswldmqghexmu23y5qj6a5xnqrg/6a1591dd42204a6f9bf38b1039c4bd48/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Live.exe",
+    "install_path": "/home/wonder/Games/Heroic/LegendsofRuneterra",
+    "install_size": 70308072,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "--launch-product=bacon --launch-patchline=live --thirdparty",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Legends of Runeterra",
+    "uninstaller": null,
+    "version": "1168-327"
+  }
+}

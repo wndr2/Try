@@ -1,0 +1,3 @@
+2024/08/31-07:49:41.734 49b Reusing MANIFEST /home/wonder/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/31-07:49:41.735 49b Recovering log #3
+2024/08/31-07:49:41.736 49b Reusing old log /home/wonder/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 

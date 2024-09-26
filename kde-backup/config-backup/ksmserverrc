@@ -1,0 +1,15 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000172719441700000007680005
+clientId2=10145dbd1dd000172719783400000007680019
+count=2
+program1=/usr/lib/DiscoverNotifier
+program2=firefox
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000172719441700000007680005_1727201562_41577
+restartCommand2=/usr/lib/firefox/firefox,--sm-client-id,10145dbd1dd000172719783400000007680019
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=wonder
+userId2=wonder

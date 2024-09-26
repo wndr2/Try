@@ -1,0 +1,154 @@
+{
+	"__timestamp": {
+		"cbd5b3d310a54b12bf3fe8c41994174f": "Fri Aug 30 2024 10:54:56 GMT+0300 (Israel Daylight Time)",
+		"4fb89e9f47fe48258314c366649c398e": "Thu Sep 19 2024 16:18:12 GMT+0300 (Israel Daylight Time)",
+		"879b0d8776ab46a59a129983ba78f0ce": "Thu Sep 19 2024 16:18:58 GMT+0300 (Israel Daylight Time)"
+	},
+	"cbd5b3d310a54b12bf3fe8c41994174f": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-valorant-riotgames-s2-1200x1600-2967009da06e.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Riot Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Riot Games",
+			"description": "# DEFY THE LIMITS FOR FREE IN VALORANT\n\nFIGHT AROUND THE WORLD\nBlend your style and experience on a global, competitive stage. Attack and defend your side using sharp gunplay and tactical abilities. And, with one life per-round, you'll have to think faster than your opponent if you want to survive. \n\nCREATIVITY IS YOUR GREATEST WEAPON\nMore than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine. Each map is purpose-built for team strategies, spectacular plays, and clutch moments. Make the plays others will imitate for years to come.\n",
+			"shortDescription": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork. ",
+			"title": "VALORANT",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 (64-bit, Version 2004 / Build 19041 or higher)",
+				"recommended": "Windows 10/11 (64-bit)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core 2 Duo E8400 (Intel), Athlon 200GE (AMD)",
+				"recommended": "Intel i3-4150 (Intel), Ryzen 3 1200 (AMD)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "RAM 4GB",
+				"recommended": "RAM 4GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "Intel HD 4000, Radeon R5 200",
+				"recommended": "GeForce GT 730, Radeon R7 240"
+			}
+		],
+		"releaseDate": "2020-06-02T04:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/valorant"
+	},
+	"4fb89e9f47fe48258314c366649c398e": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-legendsofruneterra-riotgames-s2-1200x1600-24e733cfc37c.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Riot Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Riot Games",
+			"description": "In this strategy card game, skill defines your success—not luck. Mix and match iconic champions, allies, and regions of Runeterra to unlock unique card synergies and outplay your opponent.\n\n# MASTER EVERY MOMENT\n\nDynamic, alternating gameplay means you can always react and counter, but so can your opponent. Choose from dozens of champion cards to include in your deck, each with a different mechanic inspired by their original League of Legends abilities.\n\nChampions enter the battle as powerful cards, and if you play smart, they level up to become even more epic. Level up your champions multiple times in-game to earn Champion Mastery crests the more you play.\n\n# ALWAYS A NEW WAY TO PLAY\n\nEvery champion and ally in the game comes from a region of Runeterra including Demacia, Noxus, Freljord, Piltover & Zaun, Ionia, Targon, Shurima, and the Shadow Isles. \n \nExplore how different champions and regions work together to give you unique advantages against your opponents. Combine, adapt, and experiment with frequent new releases in an always-evolving meta.\n\n# CHOOSE YOUR PATH\n\nIn PvE, each choice you make shapes your journey. React to unique encounters, earn and equip power-ups, unlock new champions, and rise to new challenges as you move across the map. The enemies will get stronger, but so will you—and you’ll discover different endings the more you play\n\n\n# PLAY TO WIN, NOT PAY TO WIN\n\nEarn cards for free or buy exactly what you want with shards and wildcards—you’re in control of your collection, and you’ll never pay for random packs of cards. While there’s always the option to purchase specific cards, you can easily complete your collection without spending a cent.\n \nVictory or defeat, each battle brings experience and progress. Choose which region you explore first and unlock the cards that call to you, changing regions as often as you like. As you advance, you’ll collect new allies, spells, and champions.\n\nOnce a week, you’ll also unlock chests from the Vault. These chests level up the more you play, increasing the rarity of cards inside from common all the way up to champion. They can also contain wildcards, which can be turned into any card you want—no guessing required. \n\n# DRAFT AND ADAPT\n\nLabs are limited-time experimental game modes focused on more extreme changes to the classic Legends of Runeterra formula. Choose a premade deck with specific constraints, or bring your own. The rules are always changing, and sometimes you might need a little help from your friends! Go see what Heimerdinger is cooking up next.\n\n# CLIMB THE RANKS\n\nAt the end of every season, 1024 qualifying Ranked players on each of LoR’s four regional shards (Americas, Asia, Europe, and Southeast Asia) will be able to compete for pride, glory, and a cash prize in the seasonal tournament. \n \nBut Ranked play isn’t the only way to qualify—you can also run the Last Chance Gauntlet. Gauntlets are limited-time competitive modes with unique rules to play around and exclusive rewards to unlock.\n",
+			"shortDescription": "Skill and creativity conquer all in Legends of Runeterra, a strategy card game featuring iconic champions and allies from the League of Legends universe. ",
+			"title": "Legends of Runeterra",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "64-bit Windows 7, 8.1, or 10",
+				"recommended": "64-bit Windows 7, 8.1, or 10"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "3 GHz processor",
+				"recommended": "3 GHz processor"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4 GB RAM",
+				"recommended": "4 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GPU with 512MB+ VRAM",
+				"recommended": "GPU with 512MB+ VRAM"
+			}
+		],
+		"releaseDate": "2020-04-29T14:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/legends-of-runeterra"
+	},
+	"879b0d8776ab46a59a129983ba78f0ce": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-genshinimpact-cognospherepteltd-s2-1200x1600-f33338ee244c.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "COGNOSPHERE PTE. LTD.",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "COGNOSPHERE PTE. LTD.",
+			"description": "# Version 5.0 \"Flowers Resplendent on the Sun-Scorched Sojourn\" is now available!\n\nNew Region: Natlan\nNew Characters: Mualani, Kinich, Kachina\nNew Events: Version Event \"Traces of Artistry,\" Phased Event \"Brilliant Dawn,\" etc.\nNew Mechanic: Saurian Indwelling\nNew Stories: New Archon Quests & Tribal Chronicle Quests\nNew Artifacts: Scroll of the Hero of Cinder City Set, Obsidian Codex Set\nNew Weapons: Surf's Up, Fang of the Mountain King, Ash-Graven Drinking Horn\nNew Optimization: World Level 9\n\n# MASSIVE OPEN WORLD\n\nClimb any mountain, swim across any river, and glide over the world below, taking in the jaw-dropping scenery each step of the way. And if you stop to investigate a wandering Seelie or strange mechanism, who knows what you might discover?\n\n# ELEMENTAL COMBAT SYSTEM\n\nHarness the seven elements to unleash elemental reactions. Anemo, Electro, Hydro, Pyro, Cryo, Dendro, and Geo interact in all sorts of ways, and Vision wielders have the power to turn this to their advantage.\n\nWill you vaporize Hydro with Pyro, electro-charge it with Electro, or freeze it with Cryo? Your mastery of the elements will give you the upper hand in battle and exploration.\n\n# BEAUTIFUL VISUALS\n\nFeast your eyes on the world around you, with a stunning art style, real-time rendering, and finely tuned character animations delivering you a truly immersive visual experience. Lighting and weather all change naturally over time, bringing every detail of this world to life.\n\n# SOOTHING SOUNDTRACK\n\nLet the beautiful sounds of Teyvat draw you in as you explore the expansive world around you. Performed by the world's top orchestras such as London Philharmonic Orchestra and Shanghai Symphony Orchestra, the soundtrack changes seamlessly with the time and gameplay to match the mood.\n\n# BUILD YOUR DREAM TEAM\n\nTeam up with a diverse cast of characters in Teyvat, each with their own unique personalities, stories, and abilities. Discover your favorite party combinations and level up your characters to help you conquer even the most daunting of enemies and domains.\n\n# JOURNEY WITH FRIENDS\n\nTeam up with friends across various platforms to trigger more elemental action, tackle tricky boss fights, and conquer challenging domains together to reap rich rewards.\n\nAs you stand atop the peaks of Jueyun Karst and take in the rolling clouds and vast terrain stretching out before you, you may wish to stay in Teyvat a little longer... But until you are reunited with your lost sibling, how can you rest? Go forth, Traveler, and begin your adventure!\n\n# SUPPORT\n\nIf you encounter any issues during the game, you can send us feedback via the in-game Customer Service Center.\nCustomer Service Email: genshin_cs@hoyoverse.com\n",
+			"shortDescription": "Embark on a journey across Teyvat to find your lost sibling and seek answers from The Seven — the gods of each element. Explore this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...",
+			"title": "Genshin Impact: Natlan Launch",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 SP1 64-bit, Windows 8.1 64-bit, or Windows  10 64-bit (Windows 10 dev builds are not currently supported)",
+				"recommended": "Windows 7 SP1 64-bit, Windows 8.1 64-bit, or Windows  10 64-bit (Windows 10 dev builds are not currently supported)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core i5 or equivalent",
+				"recommended": "Intel Core i7 or equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB",
+				"recommended": "16 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "100 GB",
+				"recommended": "150 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "11",
+				"recommended": "11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA® GeForce® GT 1030 or better",
+				"recommended": "NVIDIA® GeForce® GTX 1060 6GB or better"
+			}
+		],
+		"releaseDate": "2021-06-08T23:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/genshin-impact"
+	}
+}

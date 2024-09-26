@@ -1,0 +1,14 @@
+MenuBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=Trasperent.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=

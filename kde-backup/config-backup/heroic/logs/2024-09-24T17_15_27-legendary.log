@@ -1,0 +1,3 @@
+[9/24/2024, 8:15:28 PM] LEGENDARY_CONFIG_PATH=/home/wonder/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary --version
+legendary version "0.20.35", codename "Lowlife (Heroic)"
+[9/24/2024, 8:15:29 PM] LEGENDARY_CONFIG_PATH=/home/wonder/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary list --third-party

@@ -1,0 +1,140 @@
+{
+	"__timestamp": {
+		"602eb4abc8764c87b7f2607a1ef8c18e": "Fri Aug 30 2024 10:54:59 GMT+0300 (Israel Daylight Time)",
+		"b1c759a608764049a4cbea6e979f2eeb": "Thu Sep 19 2024 16:18:15 GMT+0300 (Israel Daylight Time)",
+		"41869934302e4b8cafac2d3c0e7c293d": "Thu Sep 19 2024 16:19:00 GMT+0300 (Israel Daylight Time)"
+	},
+	"602eb4abc8764c87b7f2607a1ef8c18e": {
+		"game": {
+			"app_name": "602eb4abc8764c87b7f2607a1ef8c18e",
+			"title": "VALORANT",
+			"version": "1168-327",
+			"platform_versions": {
+				"Windows": "1168-327"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4014,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "0578b99425c844c1874a2b99bfadd74e",
+			"launch_exe": "Live.exe",
+			"launch_command": "--launch-product=valorant --launch-patchline=live --thirdparty",
+			"build_version": "1168-327",
+			"build_id": "z1QryEO5T8e6Y8eZbNO7EQ",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1,
+			"num_chunks": 68,
+			"disk_size": 70308072,
+			"download_size": 65774050,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"b1c759a608764049a4cbea6e979f2eeb": {
+		"game": {
+			"app_name": "b1c759a608764049a4cbea6e979f2eeb",
+			"title": "Legends of Runeterra",
+			"version": "1168-327",
+			"platform_versions": {
+				"Windows": "1168-327"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1168-327",
+			"disk_size": 70308072,
+			"install_path": "/home/wonder/Games/Heroic/LegendsofRuneterra",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 4014,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "508f53be3e5945a587e15f4a644c7bd4",
+			"launch_exe": "Live.exe",
+			"launch_command": "--launch-product=bacon --launch-patchline=live --thirdparty",
+			"build_version": "1168-327",
+			"build_id": "lwuvKEu6SgyhLEFujs9lWg",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1,
+			"num_chunks": 68,
+			"disk_size": 70308072,
+			"download_size": 65774050,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"41869934302e4b8cafac2d3c0e7c293d": {
+		"game": {
+			"app_name": "41869934302e4b8cafac2d3c0e7c293d",
+			"title": "Genshin Impact",
+			"version": "93",
+			"platform_versions": {
+				"Windows": "93"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 25489,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "41869934302e4b8cafac2d3c0e7c293d",
+			"launch_exe": "launcher_epic.exe",
+			"launch_command": "",
+			"build_version": "93",
+			"build_id": "4iqzN-O8n_ZbQh3ghGGNvsohzAU",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 125,
+			"num_chunks": 359,
+			"disk_size": 376888139,
+			"download_size": 176698141,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

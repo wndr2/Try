@@ -1,0 +1,111 @@
+{
+	"Genshin Impact": {
+		"pcgamingwiki": {
+			"steamID": "",
+			"howLongToBeatID": "68133",
+			"metacritic": {
+				"score": "84",
+				"urlid": "genshin-impact"
+			},
+			"opencritic": {
+				"score": "80",
+				"urlid": "10217/genshin-impact"
+			},
+			"igdb": {
+				"score": "83",
+				"urlid": "genshin-impact"
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Action",
+				"Openworld",
+				"RPG"
+			],
+			"releaseDate": [
+				"Windows: September 28, 2020"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": "umu-genshin"
+	},
+	"__timestamp": {
+		"Genshin Impact": "Fri Aug 30 2024 10:53:27 GMT+0300 (Israel Daylight Time)",
+		"VALORANT": "Fri Aug 30 2024 10:54:56 GMT+0300 (Israel Daylight Time)",
+		"Legends of Runeterra": "Sat Aug 31 2024 07:51:17 GMT+0300 (Israel Daylight Time)"
+	},
+	"VALORANT": {
+		"pcgamingwiki": {
+			"steamID": "",
+			"howLongToBeatID": "76906",
+			"metacritic": {
+				"score": "80",
+				"urlid": "valorant"
+			},
+			"opencritic": {
+				"score": "81",
+				"urlid": "9573/valorant"
+			},
+			"igdb": {
+				"score": "78",
+				"urlid": "valorant"
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: June 2, 2020"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"Legends of Runeterra": {
+		"pcgamingwiki": {
+			"steamID": "",
+			"howLongToBeatID": "71303",
+			"metacritic": {
+				"score": "87",
+				"urlid": "legends-of-runeterra"
+			},
+			"opencritic": {
+				"score": "88",
+				"urlid": "9263/legends-of-runeterra"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"CCG"
+			],
+			"releaseDate": [
+				"Windows: April 28, 2020|ref=<ref>{{Refurl|url=https://playruneterra.com/en-us/news/patch-1-0-notes/|title=PATCH 1.0 NOTES - Legends of Runeterra|date=2020-05-22|snippet=Rising Tides comes to PC with Patch 1.0, which will go out at approximately 10 AM, April 28 PT."
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	}
+}

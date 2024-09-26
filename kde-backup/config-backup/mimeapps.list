@@ -1,0 +1,15 @@
+[Added Associations]
+application/json=emacs.desktop;nvim.desktop;
+application/x-docbook+xml=emacs.desktop;nvim.desktop;
+application/x-yaml=emacs.desktop;nvim.desktop;
+text/markdown=emacs.desktop;nvim.desktop;
+text/plain=emacs.desktop;nvim.desktop;
+text/x-cmake=emacs.desktop;nvim.desktop;
+
+[Default Applications]
+application/json=emacs.desktop;
+application/x-docbook+xml=emacs.desktop;
+application/x-yaml=emacs.desktop;
+text/markdown=emacs.desktop;
+text/plain=emacs.desktop;
+text/x-cmake=emacs.desktop;
